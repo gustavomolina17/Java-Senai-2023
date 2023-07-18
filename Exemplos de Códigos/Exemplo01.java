@@ -1,19 +1,18 @@
 // Tipos de variáveis em Java
 
 /* 
- * String -> Armazena texto
- * char-> Armazena uma única letra
- * int -> números inteiros
- * float -> números decimais
- * double -> números decimais. Maior precisão
+ * String -> Armazena texto.
+ * char-> Armazena uma única letra.
+ * int -> números inteiros.
+ * float -> números decimais.
+ * double -> números decimais. Maior precisão.
  */
 
  /* Regras para criar variáveis
-  * Toda váriavel DEVE começar com letra minúscula
-  * Não pode haver espaço no nome da variável
-  * nomeAluno, enderecoCliente, produtoAdquirido
+  * Toda váriavel DEVE começar com letra minúscula.
+  * Não pode haver espaço no nome da variável.
+  *  Exemplos de nomes válidos: nomeAluno, enderecoCliente, produtoAdquirido
   */
-
 
  public class Exemplo01{
 
@@ -33,21 +32,5 @@
         System.out.println("Meu salário é " + salario);
         System.out.println("Eu tenho: "+altura+"metros");
 
-        
-
-
-
-
-
-
-
-
-
-
-
     }
-
-
-
-
  }
